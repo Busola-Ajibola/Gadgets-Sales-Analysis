@@ -1,5 +1,6 @@
 # Gadgets-Sales-Analysis
 This report analyzes 50,000 gadget sales across Canada, covering mobile phones and laptops. It reviews brand revenue, regional performance, customer preferences, and delivery efficiency. Key insights highlight top brands, balanced product demand, and areas to improve processing time.
+<img width="1240" height="656" alt="Screenshot 2025-09-30 at 15 44 32" src="https://github.com/user-attachments/assets/ac7e0184-4b26-4572-adaf-61dafb3e1c24" />
 ## 1.Overview
 This report analyzes a dataset of 50,000 gadget sales transactions, covering mobile phones and laptops sold across five major regions in Canada. The dataset includes details on product type, brand, pricing, sales volume, and customer location.
 
