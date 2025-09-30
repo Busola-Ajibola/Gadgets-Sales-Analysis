@@ -1,25 +1,26 @@
 # Gadgets-Sales-Analysis
 This report analyzes 50,000 gadget sales across Canada, covering mobile phones and laptops. It reviews brand revenue, regional performance, customer preferences, and delivery efficiency. Key insights highlight top brands, balanced product demand, and areas to improve processing time.
-1.Overview
+## 1.Overview
 This report analyzes a dataset of 50,000 gadget sales transactions, covering mobile phones and laptops sold across five major regions in Canada. The dataset includes details on product type, brand, pricing, sales volume, and customer location.
-2. Objectives   
+
+## 2. Objectives   
 - Identify the brand generating the highest revenue.  
 - Determine customer preferences for gadget types.  
 - Assess the need for improvement in the dispatch process.  
 - Evaluate sales performance across different regions.  
 
-3. Scope  
+## 3. Scope  
 This report examines key aspects such as:  
 - Product and Brand Analysis: Evaluate the most preferred product types and their market representation.  
 - Processing Delivery Time: Analyze whether process times meet industry standards and customer expectations.  
 - Quantity Sold and Revenue Generated: Assess overall sales and revenue performance.
 
-4. Data Cleaning Process 
+## 4. Data Cleaning Process 
 - Duplicate Check: No duplicate records were found.
 - Data Type Validation: All data types were reviewed and aligned with expected formats.
 - Post-Cleaning Dataset: Retained 50,000 rows and 17 columns (after adding calculated fields for revenue and processing time).
 
-Dataset Overview 
+## Dataset Overview 
 - Data Source: The data was sourced from a reliable channel and contains 50,000 rows and 17 columns.  
 Key Columns:  
   - Product  
@@ -29,7 +30,7 @@ Key Columns:
   - Price  
   - Revenue  
 
-5. Summary Statistics
+## 5. Summary Statistics
 - Total Transactions:50,000  
 - Total Revenue: $28,279,081,122  
 - Average Revenue per Transaction: $565,582  
